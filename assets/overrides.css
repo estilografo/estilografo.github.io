@@ -1,3 +1,4 @@
-.page-content {
+/* Justified text looks like crap on mobile. */
+/*.page-content {
     text-align: justify;
-}
+}*/
