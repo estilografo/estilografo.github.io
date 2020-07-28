@@ -6,3 +6,9 @@
 .reading-time {
     float: right;
 }
+
+.post-date {
+    font-size: small;
+    text-align: right;
+    color: grey;
+}

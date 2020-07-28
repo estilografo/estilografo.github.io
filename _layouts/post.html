@@ -2,7 +2,59 @@
 layout: default
 ---
 {% include read_time.html %}
-<small>{{ page.date | date: "%-d %B %Y" }}</small>
-<h1>{{ page.title }}</h1>
+<h1 class="post-title p-name">{{ page.title }}</h1>
 
 {{content}}
+
+<div class="post-date">
+{% assign d = page.date | date: "%-d" %}
+{% case d %}
+    {% when '1' %}I
+    {% when '2' %}II
+    {% when '3' %}III
+    {% when '4' %}IV
+    {% when '5' %}V
+    {% when '6' %}VI
+    {% when '7' %}VII
+    {% when '8' %}VIII
+    {% when '9' %}IX
+    {% when '10' %}X
+    {% when '11' %}XI
+    {% when '12' %}XII
+    {% when '13' %}XIII
+    {% when '14' %}XIV
+    {% when '15' %}XV
+    {% when '16' %}XVI
+    {% when '17' %}XVII
+    {% when '18' %}XVIII
+    {% when '19' %}XIX
+    {% when '20' %}XX
+    {% when '22' %}XXI
+    {% when '22' %}XXII
+    {% when '23' %}XXIII
+    {% when '24' %}XXIV
+    {% when '25' %}XXV
+    {% when '26' %}XXVI
+    {% when '27' %}XXVII
+    {% when '28' %}XXVIII
+    {% when '29' %}XXIX
+    {% when '30' %}XXX
+    {% when '31' %}XXXI
+{% endcase %}
+{% assign m = page.date | date: "%-m" %}
+{% case m %}
+    {% when '1' %}Ianuarius
+    {% when '2' %}Februarius
+    {% when '3' %}Martius
+    {% when '4' %}Aprilis
+    {% when '5' %}Maius
+    {% when '6' %}Junius
+    {% when '7' %}Julius
+    {% when '8' %}Augustus
+    {% when '9' %}September
+    {% when '10' %}October
+    {% when '11' %}November
+    {% when '12' %}December
+{% endcase %}
+{{ page.date | date: "%Y" }}
+</span>
