@@ -5,7 +5,7 @@ date:   2021-02-22 00:36:14 +0000
 ---
 O homem batia com o dedo contra a mesa. Duas, três vezes por segundo, de vez em quando acelerando até cinco ou seis, conforme os ciclos da maré de nervosismo que assolava o seu mundo interior. Abanava a perna direita ao mesmo tempo que repetidamente reajeitava a sua posição na cadeira.
 
-Um pingo de suor esquia-lhe pela testa em meandros, irrompe pela cana do nariz e por fim entrega-se em corpo inteiro aos caprichos da gravitação. O homem contempla o prato. O homem mira o tecto. Abre e fecha ligeiramente a boca. Rói as unhas. Realiza cada uma destas acções por não mais do que cinco segundos, e repete-as sem ordem ou sequência.
+Um pingo de suor esquia-lhe a testa em meandros, irrompe pela cana do nariz e por fim entrega-se em corpo inteiro aos caprichos da gravitação. O homem contempla o prato. O homem mira o tecto. Abre e fecha ligeiramente a boca. Rói as unhas. Realiza cada uma destas acções por não mais do que cinco segundos, e repete-as sem ordem ou sequência.
 
 O homem passa a vista sobre as mesas à volta. Tudo gente janota, bem sucedida, realizada, impecável e impecada. Cruza o olhar com o de uma matrona a jantar com o seu parceiro. Sabe, nesse momento, que foi apanhado. Em breve todos na sala saberão também o que se passa, e o que se segue.
 
