@@ -23,6 +23,6 @@ Por fim diz basta a si mesmo e atira-se do precipício.
 
 O empregado acena em expressão de pêsames. “Nós é que pedimos desculpa. Eu trago-lhe imediatamente um novo prato. Mais uma vez, lamentamos imenso. E a sopa é oferta da casa.”
 
-O homem expira em alívio. Afinal encontrar solução foi simples. Isto não é um bicho de sete cabeças. Sente orgulho de si próprio, de ter ultrapassado mais um obstáculo auto-imposto. A possibilidade de um dia tornar-se um ser humano funcional e capaz de lidar com conflito deixa-o regozijado em optimismo.
+O homem expira em alívio. Afinal encontrar solução foi simples. Isto não é um bicho de sete cabeças. Sente orgulho de si próprio, de ter ultrapassado mais um obstáculo auto-imposto. A possibilidade de um dia se tornar um ser humano funcional e capaz de lidar com conflito deixa-o regozijado em optimismo.
 
 Entretanto, repara que o copo tem mancha de lábios.
