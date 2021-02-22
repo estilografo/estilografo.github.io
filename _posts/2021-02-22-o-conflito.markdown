@@ -7,7 +7,7 @@ O homem batia com o dedo contra a mesa. Duas, três vezes por segundo, de vez em
 
 Um pingo de suor esquia-lhe pela testa em meandros, irrompe pela cana do nariz e por fim entrega-se em corpo inteiro aos caprichos da gravitação. O homem contempla o prato. O homem mira o tecto. Abre e fecha ligeiramente a boca. Rói as unhas. Realiza cada uma destas acções por não mais do que cinco segundos, e repete-as sem particular ordem.
 
-O homem passa a vista sobre as mesas à volta. Tudo gente janota, bem sucedida, realizada, impecável e impecada. Cruza o olhar com o de uma matrona a jantar com o seu parceiro. Sabe, nesse momento, que foi apanhado. Em breve todos na sala saberão também o que se passa e o que se segue.
+O homem passa a vista sobre as mesas à volta. Tudo gente janota, bem sucedida, realizada, impecável e impecada. Cruza o olhar com o de uma matrona a jantar com o seu parceiro. Sabe, nesse momento, que foi apanhado. Em breve todos na sala saberão também o que se passa, e o que se segue.
 
 O empregado passa por perto. O homem inicia-se a levantar o braço; desiste enquanto este não dista mais do que um palmo da mesa. Leva as mãos à testa, bate com os pulsos nela. Bufa em frustração, geme baixinho. Expira, exasperado.
 
