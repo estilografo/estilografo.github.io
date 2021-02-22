@@ -13,7 +13,7 @@ O empregado passa por perto. O homem inicia-se a levantar o braço; desiste enqu
 
 Um outro empregado aproxima-se. “Muito boa noite. Está tudo bem com o seu prato?”
 
-O homem é incapaz de responder. Balbucia bebezices semanticamente vazias. Engole em seco. Três novos fios de suor emergem-lhe da testa, imediatamente cedendo à atracção pelo chão. Espasmos musculares vergastam-lhe a nuca e indignificam-lhe a pose.
+O homem é incapaz de responder. Balbucia bebezices semanticamente vazias. Engole em seco. Três novos fios de suor emergem-lhe da testa, imediatamente cedendo à atracção pelo chão. Espasmos musculares vergam-lhe a nuca e indignificam-lhe a pose.
 
 O homem avalia a capacidade física do empregado. Contempla os braços musculados e preconiza a humilhação de ser expulso ou até de levar um excerto de porrada. Visualiza os restantes fregueses a rirem-se, a filmarem enquanto ele é espezinhado. Imagina-se alvo de chacota nas redes sociais pelos próximos meses, com ressurgências posteriores sempre que alguém se deixar levar por _memes_ nostálgicos e inicie uma nova onda de humilhação pública. Uma súbita vontade de excretar abraça-lhe o ventre.
 
