@@ -19,7 +19,7 @@ O homem avalia a capacidade física do empregado. Contempla os braços musculado
 
 Por fim diz basta a si mesmo e atira-se do precipício. 
 
-“T-t-t-tenho um… um cabelo na sopa. Seria possível? Se não for incómodo… desculpe lá a maçada… olhe esqueça, deixe lá, não é nada, estou aqui a imaginar coisas... peço imensa desculpa...”
+“T-t-t-tenho um… um cabelo na sopa. Seria possível...? Se não for incómodo… desculpe lá a maçada… olhe esqueça, deixe lá, não é nada, estou aqui a imaginar coisas... peço imensa desculpa...”
 
 O empregado acena em expressão de pêsames. “Nós é que pedimos desculpa. Eu trago-lhe imediatamente um novo prato. Mais uma vez, lamentamos imenso. E a sopa é oferta da casa.”
 
